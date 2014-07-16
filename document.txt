@@ -27,6 +27,7 @@ So you're the organisers of the biggest conference in [insert field here]!
 #### 2.1.1. Jargon
 
 ##### Tweet
+
 A 140-character update posted to Twitter.
 
 ##### Mention (@)
@@ -35,11 +36,13 @@ You can use the at symbol to tag other Twitter accounts. If I wanted to tag the 
 > Today I went nearly 100 metres underground to see the [@CMSexperiment](https://twitter.com/CMSexperiment)!
 
 ##### Hashtag
+
 A form of tagging to provide context to your tweets. A Word or a PhraseWithoutSpaces preceeded by the hash sign (#). So:
 
 > Today I went nearly 100 metres underground to see the [@CMSexperiment](https://twitter.com/CMSexperiment)! [#LHC](https://twitter.com/search?f=realtime&q=%23LHC) [#unnecessaryhashtags](https://twitter.com/search?f=realtime&q=%23unnecessaryhashtag) [#superfluoushashtag](https://twitter.com/search?f=realtime&q=%23superfluoushashtag) [#justalongtagiamusingasahashtagforreasons](https://twitter.com/search?f=realtime&q=%23justalongtagiamusingasahashtagforreasons)
 
 ##### Re-tweet (RT)
+
 A re-tweet is when you share someone else's tweet with your followers. Typically, you would click on the "re-tweet" button. However, you can also copy the content of the tweet and share it as an update of your own; to do so with the above tweet, you would say:
 
 > RT [@RaoOfPhysics](https://twitter.com/RaoOfPhysics): Today I went nearly 100 metres underground to see the [@CMSexperiment](https://twitter.com/CMSexperiment)! [#LHC](https://twitter.com/search?f=realtime&q=%23LHC) [#unnecessaryhashtags](https://twitter.com/search?f=realtime&q=%23unnecessaryhashtag) [#superfluoushashtag](https://twitter.com/search?f=realtime&q=%23superfluoushashtag) [#justalongwordiamusingas](https://twitter.com/search?f=realtime&q=%23jjustalongwordiamusingas)
