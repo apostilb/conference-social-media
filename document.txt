@@ -1,5 +1,93 @@
-### Welcome to your project!
+# Social Media for Academic Conferences
 
-- Brush up on Markdown: http://daringfireball.net/projects/markdown/basics
-- Learn about Penflip: [penflip.com/help](http://www.penflip.com/help)
-- Talk to a person: support@penflip.com
+This guide will be updated as often as is needed, and can be found online at
+https://www.penflip.com/RaoOfPhysics/social-media-for-academic-conferences or http://bit.ly/confsocialmedia (note the lowercase).
+
+## Topics covered
+1. Introduction
+1. Platforms
+  1. Twitter
+  1. Facebook
+  1. Google+
+  1. Blogging
+1. Before, during and after the conference
+1. Calendering and timetables
+1. Volunteer merch / signposting
+
+## 1. Introduction
+
+### 1.1. Why use social media for your conference?
+
+So you're the organisers of the biggest conference in [insert field here]!
+
+## 2. Platforms
+
+### 2.1. Twitter
+
+#### 2.1.1. Jargon
+
+##### Tweet
+A 140-character update posted to Twitter.
+
+##### Mention (@)
+
+You can use the at symbol to tag other Twitter accounts. If I wanted to tag the [CMS Experiment at CERN](http://cern.ch/cms) in my tweet, I could say:
+> Today I went nearly 100 metres underground to see the [@CMSexperiment](https://twitter.com/CMSexperiment)!
+
+##### Hashtag
+A form of tagging to provide context to your tweets. A Word or a PhraseWithoutSpaces preceeded by the hash sign (#). So:
+
+> Today I went nearly 100 metres underground to see the [@CMSexperiment](https://twitter.com/CMSexperiment)! [#LHC](https://twitter.com/search?f=realtime&q=%23LHC) [#unnecessaryhashtags](https://twitter.com/search?f=realtime&q=%23unnecessaryhashtag) [#superfluoushashtag](https://twitter.com/search?f=realtime&q=%23superfluoushashtag) [#justalongtagiamusingasahashtagforreasons](https://twitter.com/search?f=realtime&q=%23justalongtagiamusingasahashtagforreasons)
+
+##### Re-tweet (RT)
+A re-tweet is when you share someone else's tweet with your followers. Typically, you would click on the "re-tweet" button. However, you can also copy the content of the tweet and share it as an update of your own; to do so with the above tweet, you would say:
+
+> RT [@RaoOfPhysics](https://twitter.com/RaoOfPhysics): Today I went nearly 100 metres underground to see the [@CMSexperiment](https://twitter.com/CMSexperiment)! [#LHC](https://twitter.com/search?f=realtime&q=%23LHC) [#unnecessaryhashtags](https://twitter.com/search?f=realtime&q=%23unnecessaryhashtag) [#superfluoushashtag](https://twitter.com/search?f=realtime&q=%23superfluoushashtag) [#justalongwordiamusingas](https://twitter.com/search?f=realtime&q=%23jjustalongwordiamusingas)
+
+You will notice, though, that the last hashtag there is truncated: you've used too many characters. You therefore decide to delete that entire hashtag, or reduce "metres" to simply "m", or modify my original tweet in some way. Which brings us to…
+
+##### Modified tweet (MT)
+
+It is common courtesy that if you modify someone's tweet, you acknowledge it by using MT instead of RT:
+
+> MT [@RaoOfPhysics](https://twitter.com/RaoOfPhysics): Today I went nearly 100 metres underground to see the [@CMSexperiment](https://twitter.com/CMSexperiment)! [#LHC](https://twitter.com/search?f=realtime&q=%23LHC) [#unnecessaryhashtags](https://twitter.com/search?f=realtime&q=%23unnecessaryhashtag) [#superfluoushashtag](https://twitter.com/search?f=realtime&q=%23superfluoushashtag)
+
+
+##### Heard through / Hat tip (HT)
+
+If you've come across a link or some information via someone, it's good practice to mention this in your tweet:
+
+> I learnt that [@CMSexperiment](http://twitter.com/CMSexperiment) at [@CERN](https://twitter.com/CERN) is located nearly 100 metres underground! HT [@RaoOfPhysics](https://twitter.com/RaoOfPhysics)
+
+#### 2.1.2. Tools
+##### Widgets
+##### Tweetdeck
+##### Mobile apps
+
+#### 2.1.3. Recommendations
+
+
+
+### 2.2. Facebook
+
+#### 2.2.1. Whose account / page?
+
+#### 2.2.2. Events
+
+### 2.3. Google+
+
+#### 2.3.1. Whose account / page?
+
+#### 2.3.2. Events
+
+#### 2.3.3. Hangout On Air
+
+### 2.4. Blogging
+
+## 3. Before, during and after the conference
+
+## 4. Calendaring and timetables
+
+Pathable / Google Calendar / Indico
+
+## 5. Volunteer merch / signposting
