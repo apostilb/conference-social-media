@@ -18,9 +18,9 @@ https://www.penflip.com/RaoOfPhysics/social-media-for-academic-conferences or ht
 
 ## 1. Introduction
 
-### 1.1. Why use social media for your conference?
+So you are the organiser(s) of the biggest conference in [insert field here]! You have been told that you should involve social media in your communication strategy, but you don’t know where to begin.
 
-So you’re the organisers of the biggest conference in [insert field here]!
+This document contains a quick introduction on how you can (and should, in the author’s opinion) use tools of social media at academic conferences for both internal and external communications. It includes tips based on lessons learnt by the author over nearly four years of communication experience in the field of particle physics. What this guide is not is a comprehensive textbook on the various social-media channels and their ins and outs. Most of the specific information you need is available at various online resources.
 
 ## 2. Platforms
 
@@ -30,14 +30,14 @@ So you’re the organisers of the biggest conference in [insert field here]!
 
 You can create Twitter accounts for individuals, organisations or fictional entities/characters. To create one for your conference (be sure to pick an appropriate username &mdash; see more below), go to [https://twitter.com/signup](https://twitter.com/signup).
 
-#### 2.1.1. Jargon
+#### 2.1.1. Twitter Jargon
 
 Term | Explanation | Example
 :---|:---|:---
 **Username or “Handle”** | Your “handle” on Twitter is your identity. Keep it short! Any time someone mentions you on Twitter, they’re using up characters. Make it relevant to your (your organisation’s) identity. You can always change your Twitter handle but it isn’t a good idea if you have a large number of followers. | [@RaoOfPhysics](https://twitter.com/RaoOfPhysics)
 **Tweet** | A single update posted to Twitter (up to 140 characters each) is called a tweet. You can include hyperlinks, upload image files (which must be 5MB for regular images or 3MB for animated GIFs) and more, as long as you stick to 140 characters. | Today I went nearly underground to see the CMS Experiment at CERN!
 **Mention or tag (@)** | You can use the at symbol to tag other Twitter accounts. | Today I went nearly 100 metres underground to see the [@CMSexperiment](https://twitter.com/CMSexperiment)!
-**Hashtag** | A form of tagging to provide context to your tweets. A Word or a PhraseWithoutSpaces preceeded by the hash sign (#). | Today I went nearly 100 metres underground to see the [@CMSexperiment](https://twitter.com/CMSexperiment)! [#LHC](https://twitter.com/search?f=realtime&q=%23LHC) [#unnecessaryhashtags](https://twitter.com/search?f=realtime&q=%23unnecessaryhashtag) [#superfluoushashtag](https://twitter.com/search?f=realtime&q=%23superfluoushashtag) [#justalongtagiamusingasahashtagforreasons](https://twitter.com/search?f=realtime&q=%23justalongtagiamusingasahashtagforreasons)
+**Hashtag** | A form of tagging to provide context to your tweets. A Word or a PhraseWithoutSpaces preceeded by the hash sign (#). N.B.: **Facebook** and  **Google+** also support hashtags. | Today I went nearly 100 metres underground to see the [@CMSexperiment](https://twitter.com/CMSexperiment)! [#LHC](https://twitter.com/search?f=realtime&q=%23LHC) [#unnecessaryhashtags](https://twitter.com/search?f=realtime&q=%23unnecessaryhashtag) [#superfluoushashtag](https://twitter.com/search?f=realtime&q=%23superfluoushashtag) [#justalongtagiamusingasahashtagforreasons](https://twitter.com/search?f=realtime&q=%23justalongtagiamusingasahashtagforreasons)
 **Re-tweet (RT)** | A re-tweet is when you share someone else’s tweet with your followers. Typically, you would click on the “re-tweet” button. However, you can also copy the content of the tweet and share it as an update of your own; to do so with the above tweet, as shown in the example. You will notice, though, that the last hashtag there is truncated: you’ve used too many characters. You therefore decide to delete that entire hashtag, or reduce “metres” to simply “m”, or modify my original tweet in some way (see MT below). | RT [@RaoOfPhysics](https://twitter.com/RaoOfPhysics): Today I went nearly 100 metres underground to see the [@CMSexperiment](https://twitter.com/CMSexperiment)! [#LHC](https://twitter.com/search?f=realtime&q=%23LHC) [#unnecessaryhashtags](https://twitter.com/search?f=realtime&q=%23unnecessaryhashtag) [#superfluoushashtag](https://twitter.com/search?f=realtime&q=%23superfluoushashtag) [#justalongwordiamusingas](https://twitter.com/search?f=realtime&q=%23jjustalongwordiamusingas)
 **Modified tweet (MT)** | It is common courtesy that if you modify someone’s tweet, you acknowledge it by using MT instead of RT. | MT [@RaoOfPhysics](https://twitter.com/RaoOfPhysics): Today I went nearly 100 metres underground to see the [@CMSexperiment](https://twitter.com/CMSexperiment)! [#LHC](https://twitter.com/search?f=realtime&q=%23LHC) [#unnecessaryhashtags](https://twitter.com/search?f=realtime&q=%23unnecessaryhashtag) [#superfluoushashtag](https://twitter.com/search?f=realtime&q=%23superfluoushashtag)
 **Heard through / Hat tip (HT)** | If you’ve come across a link or some information via someone, it’s good practice to mention this in your tweet. | I learnt that [@CMSexperiment](http://twitter.com/CMSexperiment) at [@CERN](https://twitter.com/CERN) is located nearly 100 metres underground! HT [@RaoOfPhysics](https://twitter.com/RaoOfPhysics)
