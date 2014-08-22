@@ -1,5 +1,3 @@
-# Social Media for Academic Conferences
-
 By Achintya Rao
 
 This guide will be updated as often as is needed, and can be found online at
