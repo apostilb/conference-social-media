@@ -6,10 +6,10 @@ https://www.penflip.com/RaoOfPhysics/social-media-for-academic-conferences or ht
 ## Topics covered
 1. Introduction
 1. Platforms
-  1. Twitter
-  1. Facebook
-  1. Google+
-  1. Blogging
+    1. Twitter
+    1. Facebook
+    1. Google+
+    1. Blogging
 1. Before, during and after the conference
 1. Calendering and timetables
 1. Volunteer merch / signposting
