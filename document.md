@@ -1,5 +1,3 @@
-By Achintya Rao
-
 This guide will be updated as often as is needed, and can be found online at
 https://www.penflip.com/RaoOfPhysics/social-media-for-academic-conferences or http://bit.ly/confsocialmedia (note the lowercase).
 
