@@ -99,3 +99,7 @@ While you can log in to Twitter on your mobile devices by going to [https://mobi
 Pathable / Google Calendar / Indico
 
 ## Volunteer merch / signposting
+
+---
+
+Draft first authored in 2014. Last updated on {{ site.time | date: '%d %B %Y' }}.

@@ -1,0 +1,32 @@
+# Dependencies
+markdown:               kramdown
+redcarpet:
+  extensions:           ["footnotes", "tables"]
+highlighter:            rouge
+
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:              pretty
+
+# Setup
+title:                  'apostilb'
+tagline:                'marginal illuminations on science'
+description:            'An exercise in communicating science, by <a href="https://twitter.com/neuroamanda">@neuroamanda</a> and <a href="https://twitter.com/RaoOfPhysics">@RaoOfPhysics</a>'
+url:                    https://apostilb.github.io/conference-social-media
+baseurl:                /conference-social-media/
+paginate:               5
+
+# About/contact
+author:
+  name:                 'Amanda Alvarez and Achintya Rao'
+  url:                  https://github.com/apostilb
+
+github:
+  repo:                 https://github.com/apostilb/conference-social-media
+
+exclude:
+    - Gemfile
+    - Gemfile.lock
+    - LICENSE.md
+    - README.md
